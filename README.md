@@ -13,11 +13,23 @@ https://github.com/luisgrohmannhhn2024/ToDoAppA9.git
 
 5. Öffne den **Device Manager** und erstelle ein virtuelles Gerät:
 - **Gerätemodell:** Pixel 8
-- **API-Version:** API 35
+- **API-Version:** API 34
 
 6. Starte die App über den **grünen Run-Button**.
 
 7. Verwende und teste die App.
+
+Installation der APK. 
+
+1. Klone das Projekt. 
+
+2. Öffne den Ordner APK
+
+3. Lade die .apk Datei herunter und starte sie. 
+
+4. Installiere die App.
+
+5. Viel Spaß
 
 ## Funktionsbeschreibung
 
@@ -63,9 +75,13 @@ Die ToDo-App ist eine vollständig funktionsfähige Anwendung, die es Nutzern er
 - In der Kategorie "Erledigte ToDos" kann der Nutzer:
   - Erledigte ToDos **löschen**, wenn sie nicht mehr benötigt werden.
   - Einen Filter anwenden, um bestimmte abgeschlossene ToDos einfacher zu finden.
-  - Neue ToDos erstellen.
+  - Neue ToDos erstellen
 
----
+## Verwendete Technolgien
+- Die App wurde mit
+Min. SDK: API 26
+Target SDK: API 34
+und dem Pixel 8 Emulator getestet
 
-### Zusammenfassung
-Die App bietet eine intuitive und übersichtliche Benutzeroberfläche, die es ermöglicht, Aufgaben effektiv zu verwalten und stets den Überblick über offene, überfällige und abgeschlossene ToDos zu behalten.
+## Bekannte Probleme
+Es gab keine ersichtlichen Probleme beim Testen der Applikation. 
