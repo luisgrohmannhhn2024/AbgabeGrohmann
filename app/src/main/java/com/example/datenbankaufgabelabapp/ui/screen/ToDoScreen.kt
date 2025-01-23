@@ -140,7 +140,7 @@ fun ToDoScreen(
             if (finalTodos.isNotEmpty()) {
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(
-                    text = "Tippen Sie auf ein ToDo, um es zu bearbeiten",
+                    text = "Tippen Sie lange auf ein ToDo, um es zu bearbeiten",
                     style = MaterialTheme.typography.bodySmall,
                     color = Color.Gray,
                     modifier = Modifier.align(Alignment.CenterHorizontally)
